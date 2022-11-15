@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id_produktu</Data></Cell>
+			<Cell><Data ss:Type="String">producent</Data></Cell>
+			<Cell><Data ss:Type="String">model</Data></Cell>
+			<Cell><Data ss:Type="String">kategoria</Data></Cell>
+			<Cell><Data ss:Type="String">cena</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EP-200</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">2500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EP-200X</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">2750</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EP-300</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">3199</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EE-1000</Data></Cell>
+			<Cell><Data ss:Type="String">telewizor</Data></Cell>
+			<Cell><Data ss:Type="Number">3999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EE-2000</Data></Cell>
+			<Cell><Data ss:Type="String">telewizor</Data></Cell>
+			<Cell><Data ss:Type="Number">4499</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EX-550</Data></Cell>
+			<Cell><Data ss:Type="String">kuchenka</Data></Cell>
+			<Cell><Data ss:Type="Number">2100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EZ-550</Data></Cell>
+			<Cell><Data ss:Type="String">lodówka</Data></Cell>
+			<Cell><Data ss:Type="Number">3500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">S-300</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">2999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">S-400</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">2199</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">X-500</Data></Cell>
+			<Cell><Data ss:Type="String">telewizor</Data></Cell>
+			<Cell><Data ss:Type="Number">1999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">X-600</Data></Cell>
+			<Cell><Data ss:Type="String">telewizor</Data></Cell>
+			<Cell><Data ss:Type="Number">2599</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Z-700</Data></Cell>
+			<Cell><Data ss:Type="String">lodówka</Data></Cell>
+			<Cell><Data ss:Type="Number">2200</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">U3000</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">1550</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">U3001</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">2400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">G1000</Data></Cell>
+			<Cell><Data ss:Type="String">kuchenka</Data></Cell>
+			<Cell><Data ss:Type="Number">1999</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">L100</Data></Cell>
+			<Cell><Data ss:Type="String">lodówka</Data></Cell>
+			<Cell><Data ss:Type="Number">2500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">L105</Data></Cell>
+			<Cell><Data ss:Type="String">lodówka</Data></Cell>
+			<Cell><Data ss:Type="Number">3150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">EP-300X</Data></Cell>
+			<Cell><Data ss:Type="String">pralka</Data></Cell>
+			<Cell><Data ss:Type="Number">2950</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">GR-900</Data></Cell>
+			<Cell><Data ss:Type="String">suszarka</Data></Cell>
+			<Cell><Data ss:Type="Number">1499</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">GZ-120</Data></Cell>
+			<Cell><Data ss:Type="String">suszarka</Data></Cell>
+			<Cell><Data ss:Type="Number">3899</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">GU-170</Data></Cell>
+			<Cell><Data ss:Type="String">suszarka</Data></Cell>
+			<Cell><Data ss:Type="Number">1999</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
